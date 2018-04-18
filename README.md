@@ -1,8 +1,20 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# movie_trailer
+movie_trailer allows user to generate a website that shows information about certain movies, including title, poster and trailer.
 
-## How to open the static website
-open the fresh_tomatoes.html in any web browsers
+# Supported Python Version
+---
+Python 2.7.X and Python 3.6+
 
-## How to dynamiclly generate the website
-run the entertainment_center.py script. No parameters are needed. 
+## Run the Program
+---
+### Using command line
+Go into the directory of this project. i.e., `cd movie_trailer`
+type 'python entertainment_center.py'
+
+### Using idle
+right click `entertainment_center.py`, choose edit with IDLE
+press F5 to run the program
+
+## Notes
+---
+Once the program is executed, a `fresh_tomates.html` file is generated in your folder. You can directly access the website without running your code again. 
